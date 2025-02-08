@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   "name": "JAY",
   "email": "jay@zabe.dev",
   "website": "https://zabe.dev",
-  "skills": ["react", "typescript", "python"]
+  "skills": ["react", "python", "go"]
 }
 ```
