@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "name": "Jay",
+  "username": "zabe",
   "email": "jay@zabe.dev",
   "website": "https://zabe.dev",
   "skills": [
