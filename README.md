@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   "skills": [
     "react",
     "typescript",
+    "node",
     "python"
   ]
 }
