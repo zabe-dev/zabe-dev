@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zabe-dev/zabe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```json
+{
+  "name": "JAY",
+  "email": "jay@zabe.dev",
+  "website": "https://zabe.dev",
+  "skills": [
+    "react",
+    "typescript",
+    "node",
+    "python"
+  ]
+}
+```
