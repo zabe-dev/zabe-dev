@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   "name": "JAY",
   "email": "jay@zabe.dev",
   "website": "https://zabe.dev",
+  "timezone": "GMT+08:00",
   "skills": [
     "react",
     "typescript",
